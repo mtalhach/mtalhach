@@ -1,4 +1,3 @@
-<!--img src="https://github.com/mtalhach/mtalhach/blob/main/top.gif"-->
 
 <h1 align="center">Hello <img src="https://github.com/mtalhach/mtalhach/blob/main/hello.gif" style="width:40px; display:inline-block;" data-target="animated-image.originalImage">, I'm Talha Ch</h1>
 
