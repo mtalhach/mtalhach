@@ -33,9 +33,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p dir="auto">
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/icons/c-original.svg"><img src=https://github.com/mtalhach/mtalhach/blob/main/icons/c-original.svg" style="height: 50px;width: 60px;"></a></code>
-</p>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/c-original.jpg style="display:flex;margin-bottom:1rem"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/c-original.jpg" style="width:60px;height:60px"></a></code>
 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtalhach&show_icons=true&locale=en&layout=compact" alt="mtalhach" /></p>
