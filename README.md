@@ -1,4 +1,4 @@
-### hello, I'm Talha Ch! 👋
+### Hello, I'm Talha Ch! 👋
 
 - 🌍  I'm based in Lahore, Pakistan
 - 💻 Front-End Developer
