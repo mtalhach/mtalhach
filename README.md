@@ -76,3 +76,11 @@ Other        3 mins         ░░░░░░░░░░░░░░░░░�
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mtalhach&show_icons=true&locale=en" alt="mtalhach" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhach&" alt="mtalhach" /></p>
+
+
+
+<details open="">
+  <summary>Activity Graph 📈</summary>
+  <br>
+<a href="https://github.com/mtalhach"><img alt="Talha's Activity Graph" data-canonical-src="https://activity-graph.herokuapp.com/graph/?username=rzashakeri&amp;bg_color=fff&amp;color=000&amp;line=00E676&amp;point=000&amp;hide_border=true" style="max-width: 100%;"></a>
+</details>
