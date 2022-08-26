@@ -4,8 +4,7 @@
 
 <h3 align="center">A Passionate Front-End Developer from Pakistan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
-
+<img align="right" alt="GIF" src="https://github.com/mtalhach/Readme/blob/main/code.gif" height="320" style="width: 500px; display: inline-block;" data-target="animated-image.originalImage">
 
 - 🌍  I'm based in Lahore, Pakistan
 - 💻 Front-End Developer
