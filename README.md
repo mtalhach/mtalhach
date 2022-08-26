@@ -1,3 +1,4 @@
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only"><img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a></p>
 
 <h1 align="center">Hello <img src="https://github.com/mtalhach/mtalhach/blob/main/hello.gif" style="width:40px; display:inline-block;" data-target="animated-image.originalImage">, I'm Talha Ch</h1>
 
