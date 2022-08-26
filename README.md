@@ -34,10 +34,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <h3 align="left">Languages and Tools:</h3>
 <p dir="auto">
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/c.png"><img src="https://github.com/mtalhach/mtalhach/blob/main/c.png" style="height: 50px;width: 60px;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/c%2B%2B.png"><img src="https://github.com/mtalhach/mtalhach/blob/main/c%2B%2B.png" style="height: 50px;width: 60px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/c%23.png"><img src="https://github.com/mtalhach/mtalhach/blob/main/c%23.png" style="height: 50px;width: 60px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/js.png"><img src="https://github.com/mtalhach/mtalhach/blob/main/js.png" style="height: 50px;width: 60px"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/icons/c-original.svg"><img src=https://github.com/mtalhach/mtalhach/blob/main/icons/c-original.svg" style="height: 50px;width: 60px;"></a></code>
 </p>
 
 
