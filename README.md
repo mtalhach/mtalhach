@@ -76,11 +76,3 @@ Other        3 mins         ░░░░░░░░░░░░░░░░░�
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mtalhach&show_icons=true&locale=en" alt="mtalhach" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhach&" alt="mtalhach" /></p>
-
-
-
-<details open="">
-  <summary>Activity Graph 📈</summary>
-  <br>
-<a href="https://github.com/mtalhach"><img alt="Ch Talha's Activity Graph" src="https://camo.githubusercontent.com/e737e5a8419d67d2d26b0d49ceb35bfdcaa5fe5249de9df72beaac370c772a51/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170682f3f757365726e616d653d727a617368616b6572692662675f636f6c6f723d66666626636f6c6f723d303030266c696e653d30304536373626706f696e743d30303026686964655f626f726465723d74727565" data-canonical-src="https://mtalhach.github.io/graph/?username=rzashakeri&amp;bg_color=fff&amp;color=000&amp;line=00E676&amp;point=000&amp;hide_border=true" style="max-width: 100%;"></a>
-</details>
