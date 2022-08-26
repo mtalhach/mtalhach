@@ -6,7 +6,7 @@
 <h4>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.<br> <br>
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h4>
 
-<img align="right" alt="GIF" src="https://github.com/mtalhach/mtalhach/blob/main/code.gif" height="320" style="width: 500px; display: inline-block;" data-target="animated-image.originalImage"><br> <br>
+<img align="right" alt="GIF" src="https://github.com/mtalhach/mtalhach/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage"><br> <br>
 
 - 🌍  I'm based in Lahore, Pakistan
 - 💻 Front-End Developer
@@ -58,7 +58,18 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/photoshop-line.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/photoshop-line.jpg" style="width:60px;height:60px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://www.figma.com/files/recent?fuid=1093636169233125088"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/figma-icon.jpg" style="width:60px;height:60px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://www.linux.org/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/linux-original.jpg" style="width:60px;height:60px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/git-scm-icon.jpg" style="width:60px;height:60px"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/git-scm-icon.jpg" style="width:60px;height:60px"></a></code> <br><br>
+
+
+<p>📊 <strong> this week i spent my time on:</strong></p>
+<div class="snippet-clipboard-content"><pre class="notranslate"><code>
+DSA          20 hrs 26 mins ███████████████████░░░░░░   75.42 %
+JavaScript   6 hrs 20 mins  ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+Python       6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+JSON         5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+HTML         3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other        3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+</code></pre></div>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtalhach&show_icons=true&locale=en&layout=compact" alt="mtalhach" /></p>
 
