@@ -1,16 +1,11 @@
-### Hi there 👋
+### hello, I'm Talha Ch! 👋
 
-<!--
-**mtalhach/mtalhach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍  I'm based in Lahore, Pakistan
+- 💻 Front-End Developer
+- 🔭 I’m currently working on FRONTEND DEVELOPMENT
+- 🌱 I’m currently learning Data Structure & Algorithms 
+- 👯 I’m looking to collaborate on Web Development & DSA
+- 🤔 I’m looking for help with Machine Learning
+- ⚡ Empowering eCommerce Businesses
+- ✉️  You can contact me at talhashafiqch@gmail.com
+- 📱 +923071601809
