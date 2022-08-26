@@ -1,4 +1,4 @@
-<img src="https://github.com/mtalhach/mtalhach/blob/main/top.gif">
+<!--img src="https://github.com/mtalhach/mtalhach/blob/main/top.gif"-->
 
 <h1 align="center">Hello <img src="https://github.com/mtalhach/mtalhach/blob/main/hello.gif" style="width:40px; display:inline-block;" data-target="animated-image.originalImage">, I'm Talha Ch</h1>
 
@@ -33,16 +33,16 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 <h3 align="left">Languages and Tools:</h3>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/c-original.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/c-original.jpg" style="width:60px;height:60px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/cplusplus-original.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/cplusplus-original.jpg" style="width:60px;height:60px"></a></code>
+<code"><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/Array-In-C-DSA-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/c-original.jpg" style="width:60px;height:60px"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/2D-Array-In-c-DSA-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/cplusplus-original.jpg" style="width:60px;height:60px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/csharp-original.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/csharp-original.jpg" style="width:60px;height:60px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/java-original.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/java-original.jpg" style="width:60px;height:60px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/javascript-original.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/javascript-original.jpg" style="width:60px;height:60px"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/JAVA/tree/master/src"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/java-original.jpg" style="width:60px;height:60px"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/javascript-original.jpg" style="width:60px;height:60px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/python-original.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/python-original.jpg" style="width:60px;height:60px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/react-original-wordmark.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/react-original-wordmark.jpg" style="width:60px;height:60px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/bootstrap-plain-wordmark.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/bootstrap-plain-wordmark.jpg" style="width:60px;height:60px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/css3-original-wordmark.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/css3-original-wordmark.jpg" style="width:60px;height:60px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/html5-original-wordmark.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/html5-original-wordmark.jpg" style="width:60px;height:60px"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/BootStrap"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/bootstrap-plain-wordmark.jpg" style="width:60px;height:60px"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/CSS-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/css3-original-wordmark.jpg" style="width:60px;height:60px"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/HTML-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/html5-original-wordmark.jpg" style="width:60px;height:60px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/nodejs-original-wordmark.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/nodejs-original-wordmark.jpg" style="width:60px;height:60px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/express-original-wordmark.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/express-original-wordmark.jpg" style="width:60px;height:60px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/header_logo.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/header_logo.jpg" style="width:60px;height:60px"></a></code>
@@ -57,9 +57,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/adobe_illustrator-icon.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/adobe_illustrator-icon.jpg" style="width:60px;height:60px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/adobe-xd.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/adobe-xd.jpg" style="width:60px;height:60px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/photoshop-line.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/photoshop-line.jpg" style="width:60px;height:60px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/figma-icon.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/figma-icon.jpg" style="width:60px;height:60px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/linux-original.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/linux-original.jpg" style="width:60px;height:60px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/mtalhach/blob/main/images/git-scm-icon.jpg"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/git-scm-icon.jpg" style="width:60px;height:60px"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://www.figma.com/files/recent?fuid=1093636169233125088"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/figma-icon.jpg" style="width:60px;height:60px"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://www.linux.org/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/linux-original.jpg" style="width:60px;height:60px"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/git-scm-icon.jpg" style="width:60px;height:60px"></a></code>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtalhach&show_icons=true&locale=en&layout=compact" alt="mtalhach" /></p>
 
