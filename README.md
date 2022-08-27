@@ -135,13 +135,24 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   </div></div> <br> <br>
 
 <h2>Current GitHub Stats 📊</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mtalhach&amp;show_icons=true&amp;hide_border=false&amp;theme=jolly&amp;count_private=true&amp;include_all_commits=true" style="max-width: 100%;"></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhach&amp;show_icons=true&amp;hide_border=false&amp;theme=jolly&amp;count_private=true&amp;include_all_commits=true&amp;layout=compact" style="max-width: 100%;"></p>
+<p align="center" dir="auto"></p>
+<div align="center" dir="auto">
+<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+<img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhach&amp;theme=react&amp;border=61dafb&amp;hide_border=true" style="max-width: 100%;"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+<img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=mtalhach&amp;show_icons=true&amp;theme=react&amp;border_color=61dafb&amp;hide_border=true" style="max-width: 100%;"></a></div>
+
+<br><br><br><br><br><br><br>
 
 <blockquote>
 <p dir="auto">Check Commits below, GitHub stats are sometimes inaccurate due to caching.</p>
 </blockquote>
 <h2>GitHub Streaks 🔥</h2>
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mtalhach&amp;theme=jolly&amp;date_format=j%20M%5B%20Y%5D" style="max-width: 100%;"></p>
-
+<div align="center" dir="auto">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+ <img width="425" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhach&amp;hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&amp;title_color=61dafb&amp;text_color=ffffff&amp;icon_color=61dafb&amp;bg_color=20232a&amp;langs_count=8&amp;layout=compact&amp;border_color=61dafb&amp;hide_border=true" style="max-width: 100%;"></a></div> <hr>
+ 
+ 
+ 
+ <img src="https://activity-graph.herokuapp.com/graph?username=mtalhach&amp;theme=react-dark&amp;bg_color=20232a&amp;hide_border=true" style="max-width: 100%;">
 
