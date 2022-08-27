@@ -132,21 +132,16 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
     </clipboard-copy>
-  </div></div> <br>
+  </div></div> <br> <br>
+
+<h2>Current GitHub Stats 📊</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mtalhach&amp;show_icons=true&amp;hide_border=false&amp;theme=jolly&amp;count_private=true&amp;include_all_commits=true" style="max-width: 100%;"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhach&amp;show_icons=true&amp;hide_border=false&amp;theme=jolly&amp;count_private=true&amp;include_all_commits=true&amp;layout=compact" style="max-width: 100%;"></p>
+
+<blockquote>
+<p dir="auto">Check Commits below, GitHub stats are sometimes inaccurate due to caching.</p>
+</blockquote>
+<h2>GitHub Streaks 🔥</h2>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mtalhach&amp;theme=jolly&amp;date_format=j%20M%5B%20Y%5D" style="max-width: 100%;"></p>
 
 
-<p>📊 <strong> this week i spent my time on:</strong></p>
-<div class="snippet-clipboard-content"><pre class="notranslate"><code>
-DSA          20 hrs 26 mins ███████████████████░░░░░░   75.42 %
-JavaScript   6 hrs 20 mins  ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-Python       6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-JSON         5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-HTML         3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Other        3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-</code></pre></div>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtalhach&show_icons=true&locale=en&layout=compact" alt="mtalhach" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mtalhach&show_icons=true&locale=en" alt="mtalhach" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhach&" alt="mtalhach" /></p>
