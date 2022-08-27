@@ -144,10 +144,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <br><br><br><br><br><br><br>
 
-<blockquote>
-<p dir="auto">Check Commits below, GitHub stats are sometimes inaccurate due to caching.</p>
-</blockquote>
-<h2>GitHub Streaks 🔥</h2>
 <div align="center" dir="auto">
  <a href="https://github.com/mtalhach?tab=repositories">
  <img width="425" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhach&amp;hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&amp;title_color=61dafb&amp;text_color=ffffff&amp;icon_color=61dafb&amp;bg_color=20232a&amp;langs_count=8&amp;layout=compact&amp;border_color=61dafb&amp;hide_border=true" style="max-width: 100%;"></a></div> <hr>
@@ -156,3 +152,31 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
  <a href="https://github.com/mtalhach?tab=repositories">
  <img src="https://activity-graph.herokuapp.com/graph?username=mtalhach&amp;theme=react-dark&amp;bg_color=20232a&amp;hide_border=true" style="max-width: 100%;"></a>
 
+<h2 align="center" dir="auto">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center" dir="auto">
+<a align="left" href="https://github.com/mtalhach/Linked_List" title="Linked List"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhach&amp;repo=Linked_List&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a>
+<a align="right" href="https://github.com/mtalhach/Queue" title="Queue"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhach&amp;repo=Queue&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a></div>
+
+<br><br><br><br><br>
+
+<div width="100%" align="center" dir="auto">
+<a align="left" href="https://github.com/mtalhach/Stack-In-C-" title="Stack-In-C"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhach&amp;repo=Stack-In-C-&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a>
+<a align="right" href="https://github.com/mtalhach/Array-In-C-DSA-" title="Array"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhach&amp;repo=Array-In-C-DSA-&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a></div>
+
+<br><br><br><br><br>
+
+<div width="100%" align="center" dir="auto">
+<a align="left" href="https://github.com/mtalhach/Tree_Data_Structure" title="Tree_Data_Structure"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhach&amp;repo=Tree_Data_Structure&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a>
+<a align="right" href="https://github.com/mtalhach/JAVA" title="JAVA"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhach&amp;repo=JAVA&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a></div>
+
+<br><br><br><br><br>
+
+<div width="100%" align="center" dir="auto">
+<a align="left" href="https://github.com/mtalhach/Front_End-Web-Development" title="Front_End-Web-Development"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhach&amp;repo=Front_End-Web-Development&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a>
+<a align="right" href="https://github.com/mtalhach/BootStrap" title="BootStrap"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhach&amp;repo=BootStrap&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a></div>
+
+<br><br><br><br><br>
+
+<h4 align="center" dir="auto">
+ <a href="https://github.com/mtalhach?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
