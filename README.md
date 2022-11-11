@@ -31,7 +31,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <a href="https://codepen.io/mtalhach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mtalhach" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16414158/muhammad-talha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-talha" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mtalhach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mtalhach" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/muhammad talha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammad talha" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammad talha" height="30" width="40" /></a>
 <a href="https://discord.gg/4616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4616" height="30" width="40" /></a>
 </p><br>
 
