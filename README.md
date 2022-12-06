@@ -149,9 +149,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
  <img width="425" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhach&amp;hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&amp;title_color=61dafb&amp;text_color=ffffff&amp;icon_color=61dafb&amp;bg_color=20232a&amp;langs_count=8&amp;layout=compact&amp;border_color=61dafb&amp;hide_border=true" style="max-width: 100%;"></a></div> <hr>
  
  
- <a href="https://github.com/mtalhach?tab=repositories">
- <img src="https://activity-graph.herokuapp.com/graph?username=mtalhach&amp;theme=react-dark&amp;bg_color=20232a&amp;hide_border=true" style="max-width: 100%;"></a>
-<br>
+
 <h4 dir="auto">📊 Monthly Coding Time</h4>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>
 DSA          63 hrs 26 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   57.96 %
