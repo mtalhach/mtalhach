@@ -162,31 +162,4 @@ C++          4 hrs 1 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 text         2 hrs 21 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.15 %
 </code></pre></div>
 
-<h2 align="center" dir="auto">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center" dir="auto">
-<a align="left" href="https://github.com/mtalhach/Linked_List" title="Linked List"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhach&amp;repo=Linked_List&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a>
-<a align="right" href="https://github.com/mtalhach/Queue" title="Queue"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhach&amp;repo=Queue&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a></div>
 
-<br><br><br><br><br>
-
-<div width="100%" align="center" dir="auto">
-<a align="left" href="https://github.com/mtalhach/Stack-In-C-" title="Stack-In-C"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhach&amp;repo=Stack-In-C-&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a>
-<a align="right" href="https://github.com/mtalhach/Array-In-C-DSA-" title="Array"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhach&amp;repo=Array-In-C-DSA-&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a></div>
-
-<br><br><br><br><br>
-
-<div width="100%" align="center" dir="auto">
-<a align="left" href="https://github.com/mtalhach/Tree_Data_Structure" title="Tree_Data_Structure"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhach&amp;repo=Tree_Data_Structure&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a>
-<a align="right" href="https://github.com/mtalhach/JAVA" title="JAVA"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhach&amp;repo=JAVA&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a></div>
-
-<br><br><br><br><br>
-
-<div width="100%" align="center" dir="auto">
-<a align="left" href="https://github.com/mtalhach/Front_End-Web-Development" title="Front_End-Web-Development"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhach&amp;repo=Front_End-Web-Development&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a>
-<a align="right" href="https://github.com/mtalhach/BootStrap" title="BootStrap"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhach&amp;repo=BootStrap&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a></div>
-
-<br><br><br><br><br>
-
-<h4 align="center" dir="auto">
- <a href="https://github.com/mtalhach?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
