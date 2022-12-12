@@ -161,3 +161,6 @@ text         2 hrs 21 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 </code></pre></div>
 
 
+ <a href="https://github.com/mtalhach?tab=repositories">
+ <img src="https://activity-graph.herokuapp.com/graph?username=mtalhach&amp;theme=react-dark&amp;bg_color=20232a&amp;hide_border=true" style="max-width: 100%;"></a>
+<br>
