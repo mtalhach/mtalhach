@@ -40,7 +40,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <h3 align="left">Languages and Tools:</h3>
 <code"><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/Array-In-C-DSA-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/c-original.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/2D-Array-In-c-DSA-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/cplusplus-original.jpg" style="width:40px;height:40px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/csharp-original.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/JAVA/tree/master/src"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/java-original.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/javascript-original.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://www.python.org/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/python-original.jpg" style="width:40px;height:40px"></a></code>
@@ -57,11 +56,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><a target="_blank" rel="noopener noreferrer" href="https://www.mysql.com/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/mysql-original-wordmark.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://firebase.google.com/?gclid=CjwKCAjw3qGYBhBSEiwAcnTRLsNjIqBWa2zMCEJXSNJRqiepR6bUfXQ9N74WWX79ZwBxpy7b_s-6BBoCf4QQAvD_BwE&gclsrc=aw.ds"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/firebase-icon.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://www.djangoproject.com/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/django.jpg" style="width:40px;height:40px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://dotnet.microsoft.com/en-us/download/dotnet-framework"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/dot-net-original-wordmark.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/pocoo_flask-icon.jpg" style="width:40px;height:40px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://www.udemy.com/topic/adobe-illustrator/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/adobe_illustrator-icon.jpg" style="width:40px;height:40px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://www.adobe.com/products/xd.html"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/adobe-xd.jpg" style="width:40px;height:40px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://www.adobe.com/express/feature/image/editor"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/photoshop-line.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://www.figma.com/files/recent?fuid=1093636169233125088"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/figma-icon.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://www.linux.org/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/linux-original.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/git-scm-icon.jpg" style="width:40px;height:40px"></a></code> <br><br> <br>
@@ -159,8 +154,4 @@ JAVA         6 hrs 24 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 C++          4 hrs 1 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.68 %
 text         2 hrs 21 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.15 %
 </code></pre></div>
-
-
- <a href="https://github.com/mtalhach?tab=repositories">
- <img src="https://activity-graph.herokuapp.com/graph?username=mtalhach&amp;theme=react-dark&amp;bg_color=20232a&amp;hide_border=true" style="max-width: 100%;"></a>
 <br>
