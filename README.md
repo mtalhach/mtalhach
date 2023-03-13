@@ -37,12 +37,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 <h3 align="left">Languages and Tools:</h3>
-<code"><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/Array-In-C-DSA-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/c-original.jpg" style="width:40px;height:40px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/2D-Array-In-c-DSA-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/cplusplus-original.jpg" style="width:40px;height:40px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/JAVA/tree/master/src"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/java-original.jpg" style="width:40px;height:40px"></a></code>
+<code"><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/c-programming"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/c-original.jpg" style="width:40px;height:40px"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/Data-Structure-Algorithms/tree/main/DATA%20STRUCTURE/Array%20in%20DSA"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/cplusplus-original.jpg" style="width:40px;height:40px"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/JAVA"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/java-original.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/javascript-original.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://www.python.org/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/python-original.jpg" style="width:40px;height:40px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://reactjs.org/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/react-original-wordmark.jpg" style="width:40px;height:40px"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/react-js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/react-original-wordmark.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/BootStrap"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/bootstrap-plain-wordmark.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/CSS-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/css3-original-wordmark.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/HTML-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/html5-original-wordmark.jpg" style="width:40px;height:40px"></a></code>
@@ -57,7 +57,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><a target="_blank" rel="noopener noreferrer" href="https://www.djangoproject.com/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/django.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/pocoo_flask-icon.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://www.figma.com/files/recent?fuid=1093636169233125088"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/figma-icon.jpg" style="width:40px;height:40px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://www.linux.org/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/linux-original.jpg" style="width:40px;height:40px"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/Operating-System"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/linux-original.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/git-scm-icon.jpg" style="width:40px;height:40px"></a></code> <br><br> <br>
 
 <h2>Tech Stack 💻</h2>
