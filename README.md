@@ -10,8 +10,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img align="right" alt="GIF" src="https://github.com/mtalhach/mtalhach/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage"><br> <br>
 
 - 🌍  I'm based in Lahore, Pakistan
-- 💻 Front-End Developer
-- 🔭 I’m currently working on FRONTEND DEVELOPMENT
+- 💻 Full Stack Developer 
+- 🔭 I’m currently working on MERN STACK DEVELOPMENT
 - 🌱 I’m currently learning Data Structure & Algorithms 
 - 👯 I’m looking to collaborate on Web Development & DSA
 - 🤔 I’m looking for help with Machine Learning
