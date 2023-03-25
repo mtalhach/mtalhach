@@ -118,18 +118,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <p align="center">
 <a href="https://github.com/mtalhach">
-  <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mtalhach&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mtalhach&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mtalhach&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mtalhach&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhach&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
-</p>
-
-<br><br><br><br><br><br><br>
-
-<div align="center" dir="auto">
- <a href="https://github.com/mtalhach?tab=repositories">
- <img width="425" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhach&amp;hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&amp;title_color=61dafb&amp;text_color=ffffff&amp;icon_color=61dafb&amp;bg_color=20232a&amp;langs_count=8&amp;layout=compact&amp;border_color=61dafb&amp;hide_border=true" style="max-width: 100%;"></a></div> <hr>
+</p> <hr>
  
  
 
