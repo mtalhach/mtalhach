@@ -127,7 +127,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 # Github Metrics
 <p align="center">
-	<img width="625em" src="https://github.com/mtalhach/saadhaxxan/blob/master/github-metrics.svg" />
+	<img width="625em" src="https://github.com/mtalhach/mtalhach/blob/master/github-metrics.svg" />
 </p><hr>
  
 
