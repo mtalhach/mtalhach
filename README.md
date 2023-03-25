@@ -114,13 +114,16 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     </clipboard-copy>
   </div></div> <br> <br>
 
-<h2>Current GitHub Stats 📊</h2>
-<p align="center" dir="auto"></p>
-<div align="center" dir="auto">
-<a href="https://github.com/mtalhach?tab=repositories" title="Go to Source">
-<img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhach&amp;theme=react&amp;border=61dafb&amp;hide_border=true" style="max-width: 100%;"></a>
-<a href="https://github.com/mtalhach?tab=repositories" title="Go to Source">
-<img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=mtalhach&amp;show_icons=true&amp;theme=react&amp;border_color=61dafb&amp;hide_border=true" style="max-width: 100%;"></a></div>
+<h2><i>⚙️ GitHub Analytics</i></h2>
+
+<p align="center">
+<a href="https://github.com/mtalhach">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saadhaxxan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadhaxxan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadhaxxan&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
+</p>
 
 <br><br><br><br><br><br><br>
 
