@@ -216,3 +216,7 @@ C++          29 hrs 1 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜
 text         2 hrs 21 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.15 %
 </code></pre></div>
 <br>
+
+# Activity Graph
+
+[![Talha Ch github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mtalhach&theme=github-compact)](https://github.com/SyabAhmad/github-readme-activity-graph)
