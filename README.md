@@ -66,7 +66,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/contentful.png" style="width:100px;height:100px"></a>
     </td>
       <td align='center' width="190">
-<a href="https://github.com/mtalhach/react-js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/react-original-wordmark.jpg" style="width:40px;height:40px"></a>
+<a href="https://github.com/mtalhach/react-js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/react-original-wordmark.jpg" style="width100px;height:100px"></a>
     </td>
   </tr>
 </table>
