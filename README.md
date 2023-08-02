@@ -32,6 +32,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a href="https://stackoverflow.com/users/16414158/ch-talha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-talha" height="30" width="40" /></a>
 </p><br>
 
+<h3 align="left">Languages and Tools:</h3>
+<table width="100">
+  <tr>
+  <td align='center' width="190">
+    <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/HTML-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/html5-original-wordmark.jpg" style="width:60px;height:60px"></a></code>
+    </td>
+  </tr>
+</table>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
