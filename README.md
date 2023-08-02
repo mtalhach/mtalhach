@@ -102,12 +102,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 
-<code><a target="_blank" rel="noopener noreferrer" href="https://nodejs.org/en/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/nodejs-original-wordmark.jpg" style="width:40px;height:40px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://expressjs.com/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/express-original-wordmark.jpg" style="width:40px;height:40px"></a></code>
+
 <code><a target="_blank" rel="noopener noreferrer" href="https://www.tensorflow.org/learn"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/tensorflow-icon.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://pandas.pydata.org/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/pandas-original.jpg" style="width:40px;height:40px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=gs_emea_pakistan_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624545&adgroup=115749718983&gclid=CjwKCAjw3qGYBhBSEiwAcnTRLpPZJNgXaInRQ1G9z19xpdrFpsRxfYcUmC0FJJWtZsfNTdfxjxf0qxoCMsQQAvD_BwE"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/mongodb-original-wordmark.jpg" style="width:40px;height:40px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/SQL-SERVER"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/mysql-original-wordmark.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://firebase.google.com/?gclid=CjwKCAjw3qGYBhBSEiwAcnTRLsNjIqBWa2zMCEJXSNJRqiepR6bUfXQ9N74WWX79ZwBxpy7b_s-6BBoCf4QQAvD_BwE&gclsrc=aw.ds"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/firebase-icon.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://www.djangoproject.com/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/django.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/pocoo_flask-icon.jpg" style="width:40px;height:40px"></a></code>
