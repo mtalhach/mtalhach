@@ -39,16 +39,16 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <a target="_blank" href="https://github.com/mtalhach/HTML-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/html5-original-wordmark.jpg" style="width:100px;height:100px"></a>
     </td>
     <td align='center' width="190">
-   <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/CSS-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/css3-original-wordmark.jpg" style="width:100px;height:100px"></a></code>
+   <a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/CSS-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/css3-original-wordmark.jpg" style="width:100px;height:100px"></a>
     </td>
     <td align='center' width="190">
-   <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/BootStrap"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/bootstrap-plain-wordmark.jpg" style="width:100px;height:100px"></a></code>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/BootStrap"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/bootstrap-plain-wordmark.jpg" style="width:100px;height:100px"></a>
     </td>
      <td align='center' width="190">
-  <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/TailWind-CSS"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/tailwindcss-1.png" style="width:100px;height:100px"></a></code>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/TailWind-CSS"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/tailwindcss-1.png" style="width:100px;height:100px"></a>
     </td>
       <td align='center' width="190">
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/sass"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/sass.png" style="width:100px;height:100px" ></a></code>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/sass"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/sass.png" style="width:100px;height:100px" ></a>
     </td>
   </tr>
 </table>
