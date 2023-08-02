@@ -35,15 +35,19 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 <h3 align="left">Languages and Tools:</h3>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/HTML-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/html5-original-wordmark.jpg" style="width:60px;height:60px"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/CSS-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/css3-original-wordmark.jpg" style="width:60px;height:60px"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/BootStrap"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/bootstrap-plain-wordmark.jpg" style="width:60px;height:60px"></a></code>
+
 <code"><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/c-programming"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/c-original.jpg" style="width:60px;height:60px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/Data-Structure-Algorithms/tree/main/DATA%20STRUCTURE/Array%20in%20DSA"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/cplusplus-original.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/JAVA"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/java-original.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/javascript-original.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/Python"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/python-original.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/react-js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/react-original-wordmark.jpg" style="width:40px;height:40px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/BootStrap"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/bootstrap-plain-wordmark.jpg" style="width:40px;height:40px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/CSS-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/css3-original-wordmark.jpg" style="width:40px;height:40px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/HTML-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/html5-original-wordmark.jpg" style="width:40px;height:40px"></a></code>
+
+
+
 <code><a target="_blank" rel="noopener noreferrer" href="https://nodejs.org/en/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/nodejs-original-wordmark.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://expressjs.com/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/express-original-wordmark.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://www.tensorflow.org/learn"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/tensorflow-icon.jpg" style="width:40px;height:40px"></a></code>
