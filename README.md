@@ -51,6 +51,24 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/sass"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/sass.png" style="width:100px;height:100px" ></a>
     </td>
   </tr>
+
+  <tr>
+  <td align='center' width="190">
+   <a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/javascript-original.jpg" style="width:100px;height:100px"></a>
+    </td>
+    <td align='center' width="190">
+   <a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/jQuery"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/jQuery.png" style="width:100px;height:100px"></a>
+    </td>
+    <td align='center' width="190">
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/typeScript"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/typeScript.png" style="width:100px;height:100px"></a>
+    </td>
+     <td align='center' width="190">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/TailWind-CSS"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/tailwindcss-1.png" style="width:100px;height:100px"></a>
+    </td>
+      <td align='center' width="190">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/sass"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/sass.png" style="width:100px;height:100px" ></a>
+    </td>
+  </tr>
 </table>
 
 
