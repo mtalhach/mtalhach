@@ -42,6 +42,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/sass"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/sass.png" style="width:60px;height:60px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/javascript-original.jpg" style="width:60px;height:60px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/jQuery"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/jQuery.png" style="width:60px;height:60px"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/typeScript"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/typeScript.png" style="width:60px;height:60px"></a></code>
 
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/c-programming"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/c-original.jpg" style="width:60px;height:60px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/Data-Structure-Algorithms/tree/main/DATA%20STRUCTURE/Array%20in%20DSA"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/cplusplus-original.jpg" style="width:40px;height:40px"></a></code>
