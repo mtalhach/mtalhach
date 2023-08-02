@@ -82,15 +82,24 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
  <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/redux.png" style="width:100px;height:100px"></a>
     </td>
     <td align='center' width="190">
-   <a  href="https://github.com/mtalhach/node.js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/node.png" style="width:100px;height:100px"></a>
+   <a  href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/threejs.png" style="width:100px;height:100px"></a>
     </td>
     <td align='center' width="190">
-   <a href="https://github.com/mtalhach/express.js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/express.png" style="width:100px;height:100px"></a>
+   <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/auth.png" style="width:100px;height:100px"></a>
     </td>
   </tr>
 
 
    <tr>
+     <td align='center' width="190">
+   <a  href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/next-js.png" style="width:100px;height:100px"></a>
+    </td>
+      <td align='center' width="190">
+   <a  href="https://github.com/mtalhach/node.js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/node.png" style="width:100px;height:100px"></a>
+    </td>
+    <td align='center' width="190">
+   <a href="https://github.com/mtalhach/express.js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/express.png" style="width:100px;height:100px"></a>
+    </td>
     <td align='center' width="190">
  <a href="https://github.com/mtalhach/mongodb"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/mongobd.png" style="width:100px;height:100px"></a>
     </td>
