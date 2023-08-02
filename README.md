@@ -85,7 +85,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
    <a  href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/threejs.png" style="width:100px;height:100px"></a>
     </td>
     <td align='center' width="190">
-   <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/auth.png" style="width:100px;height:100px"></a>
+   <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/auth-1.png" style="width:100px;height:100px"></a>
     </td>
   </tr>
 
