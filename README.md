@@ -219,4 +219,4 @@ text         2 hrs 21 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 <h2 dir="auto">Activity Graph</h2>
 
-[![CH TALHA github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mtalhach&theme=github-compact)](https://github.com/SyabAhmad/github-readme-activity-graph)
+[![CH TALHA github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mtalhach&theme=github-compact)](https://github.com/mtalhach)
