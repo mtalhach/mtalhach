@@ -107,6 +107,16 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <a href="https://github.com/mtalhach/SQL-SERVER"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/sql.png" style="width:100px;height:100px"></a>
     </td>
   </tr>
+
+
+   <tr>
+     <td align='center' width="190">
+<a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/firebase-icon.jpg" style="width:100px;height:100px"></a>
+    </td>
+      <td align='center' width="190">
+   <a href="https://github.com/mtalhach"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/git-scm-icon.jpg" style="width:100px;height:100px"></a>
+    </td>
+  </tr>
 </table>
 
 
@@ -124,11 +134,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <code><a target="_blank" rel="noopener noreferrer" href="https://www.tensorflow.org/learn"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/tensorflow-icon.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://pandas.pydata.org/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/pandas-original.jpg" style="width:40px;height:40px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://firebase.google.com/?gclid=CjwKCAjw3qGYBhBSEiwAcnTRLsNjIqBWa2zMCEJXSNJRqiepR6bUfXQ9N74WWX79ZwBxpy7b_s-6BBoCf4QQAvD_BwE&gclsrc=aw.ds"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/firebase-icon.jpg" style="width:40px;height:40px"></a></code>
+
 <code><a target="_blank" rel="noopener noreferrer" href="https://www.djangoproject.com/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/django.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/pocoo_flask-icon.jpg" style="width:40px;height:40px"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/Operating-System"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/linux-original.jpg" style="width:40px;height:40px"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/git-scm-icon.jpg" style="width:40px;height:40px"></a></code> <br><br> <br>
+ <br><br> <br>
 
 <h2>Tech Stack 💻</h2>
 <h4>Languages</h4>
