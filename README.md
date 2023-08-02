@@ -57,7 +57,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
    <a  href="https://github.com/mtalhach/js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/javascript-original.jpg" style="width:100px;height:100px"></a>
     </td>
     <td align='center' width="190">
-   <a href="https://github.com/mtalhach/jQuery"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/jQuery-1.png" style="width:100px;height:100px"></a>
+   <a href="https://github.com/mtalhach/jQuery"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/jQuery.png" style="width:100px;height:100px"></a>
     </td>
     <td align='center' width="190">
  <a href="https://github.com/mtalhach/typeScript"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/typeScript.png" style="width:100px;height:100px"></a>
@@ -66,7 +66,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/contentful.png" style="width:100px;height:100px"></a>
     </td>
       <td align='center' width="190">
-<a href="https://github.com/mtalhach/react-js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/react.png" style="width100px;height:100px"></a>
+<a href="https://github.com/mtalhach/react-js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/react-1.png" style="width100px;height:100px"></a>
     </td>
   </tr>
 </table>
