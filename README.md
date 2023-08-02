@@ -36,37 +36,37 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <table width="100">
   <tr>
   <td align='center' width="190">
-    <a target="_blank" href="https://github.com/mtalhach/HTML-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/html5-original-wordmark.jpg" style="width:100px;height:100px"></a>
+    <a href="https://github.com/mtalhach/HTML-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/html5-original-wordmark.jpg" style="width:100px;height:100px"></a>
     </td>
     <td align='center' width="190">
-   <a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/CSS-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/css3-original-wordmark.jpg" style="width:100px;height:100px"></a>
+   <a href="https://github.com/mtalhach/CSS-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/css3-original-wordmark.jpg" style="width:100px;height:100px"></a>
     </td>
     <td align='center' width="190">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/BootStrap"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/bootstrap-plain-wordmark.jpg" style="width:100px;height:100px"></a>
+  <a href="https://github.com/mtalhach/BootStrap"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/bootstrap-plain-wordmark.jpg" style="width:100px;height:100px"></a>
     </td>
      <td align='center' width="190">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/TailWind-CSS"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/tailwindcss-1.png" style="width:100px;height:100px"></a>
+  <a href="https://github.com/mtalhach/TailWind-CSS"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/tailwindcss-1.png" style="width:100px;height:100px"></a>
     </td>
       <td align='center' width="190">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/sass"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/sass.png" style="width:100px;height:100px" ></a>
+<a href="https://github.com/mtalhach/sass"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/sass.png" style="width:100px;height:100px" ></a>
     </td>
   </tr>
 
   <tr>
   <td align='center' width="190">
-   <a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/javascript-original.jpg" style="width:100px;height:100px"></a>
+   <a  href="https://github.com/mtalhach/js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/javascript-original.jpg" style="width:100px;height:100px"></a>
     </td>
     <td align='center' width="190">
-   <a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/jQuery"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/jQuery.png" style="width:100px;height:100px"></a>
+   <a href="https://github.com/mtalhach/jQuery"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/jQuery.png" style="width:100px;height:100px"></a>
     </td>
     <td align='center' width="190">
- <a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/typeScript"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/typeScript.png" style="width:100px;height:100px"></a>
+ <a href="https://github.com/mtalhach/typeScript"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/typeScript.png" style="width:100px;height:100px"></a>
     </td>
      <td align='center' width="190">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/TailWind-CSS"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/tailwindcss-1.png" style="width:100px;height:100px"></a>
+  <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/contentful.png" style="width:100px;height:100px"></a>
     </td>
       <td align='center' width="190">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach/sass"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/sass.png" style="width:100px;height:100px" ></a>
+<a href="https://github.com/mtalhach/react-js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/react-original-wordmark.jpg" style="width:40px;height:40px"></a>
     </td>
   </tr>
 </table>
