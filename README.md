@@ -111,15 +111,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
    <tr>
      <td align='center' width="190">
-<a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/firebase-icon.jpg" style="width:100px;height:100px"></a>
-    </td>
-      <td align='center' width="190">
-   <a href="https://github.com/mtalhach"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/git-scm-icon.jpg" style="width:100px;height:100px"></a>
-    </td>
-  </tr>
-
-   <tr>
-     <td align='center' width="190">
 <a href="https://github.com/mtalhach/c-programming"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/c-original.jpg" style="width:100px;height:100px"></a>
     </td>
       <td align='center' width="190">
@@ -130,6 +121,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     </td>
       <td align='center' width="190">
   <a href="https://github.com/mtalhach/Python"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/python-original.jpg" style="width:100px;height:100px"></a>
+    </td>
+      <td align='center' width="190">
+   <a href="https://github.com/mtalhach"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/git-scm-icon.jpg" style="width:100px;height:100px"></a>
+    </td>
+  </tr>
+
+   <tr>
+    <td align='center' width="190">
+<a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/firebase-icon.jpg" style="width:100px;height:100px"></a>
     </td>
   </tr>
 </table>
