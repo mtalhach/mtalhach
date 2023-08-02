@@ -45,7 +45,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <a href="https://github.com/mtalhach/BootStrap"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/bootstrap-plain-wordmark.jpg" style="width:100px;height:100px"></a>
     </td>
      <td align='center' width="190">
-  <a href="https://github.com/mtalhach/TailWind-CSS"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/tailwinddd.png" style="width:100px;height:100px"></a>
+  <a href="https://github.com/mtalhach/TailWind-CSS"><img src="https://github.com/mtalhach/mtalhach/blob/main/tailwinddd.png" style="width:100px;height:100px"></a>
     </td>
       <td align='center' width="190">
 <a href="https://github.com/mtalhach/sass"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/sass.png" style="width:100px;height:100px" ></a>
