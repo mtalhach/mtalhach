@@ -18,6 +18,10 @@ Proven expertise in React.js, Next.js, Node.js, Express.js, MongoDB, RESTful API
 - 👯 I’m looking to collaborate on Web Development & DSA
 - 🤔 I’m looking for help with Machine Learning
 - ⚡ Empowering eCommerce Businesses
+- 🌀 Agile & Scrum methodologies: Delivering results timely and effectively.
+- 🗣 Excellent communicator, ensuring seamless integration of tech & business objectives.
+- 👪 Mentoring juniors to achieve their full potential.
+- ⏱ An embodiment of punctuality, precision, and dedication.
 - ✉️  You can contact me at talhashafiqch@gmail.com
 - 📱 +923071601809 <br> <br>
 
