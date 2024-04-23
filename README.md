@@ -142,6 +142,21 @@ Proven expertise in React.js, Next.js, Node.js, Express.js, MongoDB, RESTful API
 
  <br><br> <br>
 
+ <h2><i>⚙️ Tools & Technologies </i></h2>
+ <p>
+❇ Programming Languages: ⚡JavaScript (ES6+), ⚡TypeScript <br>
+❇ Frameworks/Libraries: ⚡React, ⚡JQuery, ⚡Next.js, ⚡Next Auth.js, ⚡React Router, ⚡Material UI, ⚡Chakra UI, ⚡jQuery <br>
+❇ Back-end Technologies:⚡Node.js, ⚡Express.js, ⚡GraphQL, ⚡Stripe, ⚡Sanity CMS <br>
+❇ State Management: ⚡Redux, ⚡Context API<br>
+❇ Testing: Unit Testing (⚡React Testing Library)<br>
+❇ API Integrations: ⚡JSON, ⚡REST API<br>
+❇ Databases:⚡MongoDB, ⚡Firebase<br>
+❇ Build Tools: ⚡Webpack<br>
+❇ Version Control: ⚡Github, ⚡Gitlab, ⚡Bitbucket<br>
+❇ Operating Systems: ⚡Linux, ⚡Windows<br>
+❇ Markup and Styling: ⚡HTML, ⚡CSS, ⚡SCSS, ⚡Tailwind, ⚡Styled Components, ⚡Bootstrap<br>
+ </p>
+ <br><br> <br>
 <div class="highlight highlight-source-java notranslate position-relative overflow-auto"><pre><span class="pl-k">if</span> (<span class="pl-s1">codeWorking</span>){
             <span class="pl-k">while</span> (<span class="pl-s1">codeQuality</span> &lt; <span class="pl-s1">perfectCode</span>){
                 <span class="pl-s1">codeQuality</span>++;
