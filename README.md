@@ -183,9 +183,13 @@ Proven expertise in React.js, Next.js, Node.js, Express.js, MongoDB, RESTful API
 <p align="center">
 <a href="https://github.com/mtalhach">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mtalhach&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+  <a href="https://github.com/mtalhach">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mtalhach&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhach&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <a href="https://github.com/mtalhach">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhach&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</a>
 </p>
 </p> <hr>
  
