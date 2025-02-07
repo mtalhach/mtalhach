@@ -72,7 +72,7 @@ Proven expertise in React.js, Next.js, Node.js, Express.js, MongoDB, RESTful API
   <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/contentful.png"></a>
     </td>
       <td align='center' width="190">
-<a href="https://github.com/mtalhach/react-js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/react-1.png" style="width100px;height:100px"></a>
+<a href="https://github.com/mtalhach/react-js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/react-1.png"></a>
     </td>
   </tr>
 
