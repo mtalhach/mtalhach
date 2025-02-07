@@ -147,12 +147,13 @@ Proven expertise in React.js, Next.js, Node.js, Express.js, MongoDB, RESTful API
 ❇ Programming Languages: ⚡JavaScript (ES6+), ⚡TypeScript <br>
 ❇ Frameworks/Libraries: ⚡React, ⚡JQuery, ⚡Next.js, ⚡Next Auth.js, ⚡React Router, ⚡Material UI, ⚡Chakra UI, ⚡jQuery <br>
 ❇ Back-end Technologies:⚡Node.js, ⚡Express.js, ⚡GraphQL, ⚡Stripe, ⚡Sanity CMS <br>
+❇ Mobile Development:⚡React Native, ⚡Expo <br>
 ❇ State Management: ⚡Redux, ⚡Context API<br>
 ❇ Testing: Unit Testing (⚡React Testing Library)<br>
 ❇ API Integrations: ⚡JSON, ⚡REST API<br>
 ❇ Databases:⚡MongoDB, ⚡Firebase<br>
 ❇ Build Tools: ⚡Webpack<br>
-❇ Version Control: ⚡Github, ⚡Gitlab, ⚡Bitbucket<br>
+❇ Version Control: ⚡Github, ⚡Gitlab <br>
 ❇ Operating Systems: ⚡Linux, ⚡Windows<br>
 ❇ Markup and Styling: ⚡HTML, ⚡CSS, ⚡SCSS, ⚡Tailwind, ⚡Styled Components, ⚡Bootstrap<br>
  </p>
