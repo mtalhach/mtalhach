@@ -42,34 +42,34 @@ Proven expertise in React.js, Next.js, Node.js, Express.js, MongoDB, RESTful API
 <table width="100">
   <tr>
   <td align='center' width="190">
-    <a href="https://github.com/mtalhach/HTML-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/html5-original-wordmark.jpg" style="width:100px;height:100px"></a>
+    <a href="https://github.com/mtalhach/HTML-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/html5-original-wordmark.jpg"></a>
     </td>
     <td align='center' width="190">
-   <a href="https://github.com/mtalhach/CSS-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/css3-original-wordmark.jpg" style="width:100px;height:100px"></a>
+   <a href="https://github.com/mtalhach/CSS-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/css3-original-wordmark.jpg"></a>
     </td>
     <td align='center' width="190">
-  <a href="https://github.com/mtalhach/BootStrap"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/bootstrap-plain-wordmark.jpg" style="width:100px;height:100px"></a>
+  <a href="https://github.com/mtalhach/BootStrap"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/bootstrap-plain-wordmark.jpg"></a>
     </td>
      <td align='center' width="190">
-  <a href="https://github.com/mtalhach/TailWind-CSS"><img src="https://github.com/mtalhach/mtalhach/blob/main/tailwinddd.png" style="width:100px;height:100px"></a>
+  <a href="https://github.com/mtalhach/TailWind-CSS"><img src="https://github.com/mtalhach/mtalhach/blob/main/tailwinddd.png"></a>
     </td>
       <td align='center' width="190">
-<a href="https://github.com/mtalhach/sass"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/sass.png" style="width:100px;height:100px" ></a>
+<a href="https://github.com/mtalhach/sass"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/sass.png" ></a>
     </td>
   </tr>
 
   <tr>
   <td align='center' width="190">
-   <a  href="https://github.com/mtalhach/js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/javascript-original.jpg" style="width:100px;height:100px"></a>
+   <a  href="https://github.com/mtalhach/js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/javascript-original.jpg"></a>
     </td>
     <td align='center' width="190">
-   <a href="https://github.com/mtalhach/jQuery"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/jQuery.png" style="width:100px;height:100px"></a>
+   <a href="https://github.com/mtalhach/jQuery"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/jQuery.png"></a>
     </td>
     <td align='center' width="190">
- <a href="https://github.com/mtalhach/typeScript"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/typeScript.png" style="width:100px;height:100px"></a>
+ <a href="https://github.com/mtalhach/typeScript"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/typeScript.png"></a>
     </td>
      <td align='center' width="190">
-  <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/contentful.png" style="width:100px;height:100px"></a>
+  <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/contentful.png"></a>
     </td>
       <td align='center' width="190">
 <a href="https://github.com/mtalhach/react-js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/react-1.png" style="width100px;height:100px"></a>
@@ -79,63 +79,63 @@ Proven expertise in React.js, Next.js, Node.js, Express.js, MongoDB, RESTful API
 
    <tr>
   <td align='center' width="190">
-   <a  href="https://github.com/mtalhach/React_MUI"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/material-ui.png" style="width:100px;height:100px"></a>
+   <a  href="https://github.com/mtalhach/React_MUI"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/material-ui.png"></a>
     </td>
     <td align='center' width="190">
-   <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/chakra.png" style="width:100px;height:100px"></a>
+   <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/chakra.png"></a>
     </td>
     <td align='center' width="190">
- <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/redux.png" style="width:100px;height:100px"></a>
+ <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/redux.png"></a>
     </td>
     <td align='center' width="190">
-   <a  href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/threejs.png" style="width:100px;height:100px"></a>
+   <a  href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/threejs.png"></a>
     </td>
     <td align='center' width="190">
-   <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/auth-1.png" style="width:100px;height:100px"></a>
+   <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/auth-1.png"></a>
     </td>
   </tr>
 
 
    <tr>
      <td align='center' width="190">
-   <a  href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/next-js.png" style="width:100px;height:100px"></a>
+   <a  href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/next-js.png"></a>
     </td>
       <td align='center' width="190">
-   <a  href="https://github.com/mtalhach/node.js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/node.png" style="width:100px;height:100px"></a>
+   <a  href="https://github.com/mtalhach/node.js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/node.png"></a>
     </td>
     <td align='center' width="190">
-   <a href="https://github.com/mtalhach/express.js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/express-1.png" style="width:100px;height:100px"></a>
+   <a href="https://github.com/mtalhach/express.js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/express-1.png"></a>
     </td>
     <td align='center' width="190">
- <a href="https://github.com/mtalhach/mongodb"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/mongobd.png" style="width:100px;height:100px"></a>
+ <a href="https://github.com/mtalhach/mongodb"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/mongobd.png"></a>
     </td>
      <td align='center' width="190">
-  <a href="https://github.com/mtalhach/SQL-SERVER"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/sql.png" style="width:100px;height:100px"></a>
+  <a href="https://github.com/mtalhach/SQL-SERVER"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/sql.png"></a>
     </td>
   </tr>
 
 
    <tr>
      <td align='center' width="190">
-<a href="https://github.com/mtalhach/c-programming"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/c-original.jpg" style="width:100px;height:100px"></a>
+<a href="https://github.com/mtalhach/c-programming"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/c-original.jpg"></a>
     </td>
       <td align='center' width="190">
-  <a href="https://github.com/mtalhach/Data-Structure-Algorithms/tree/main/DATA%20STRUCTURE/Array%20in%20DSA"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/cplusplus-original.jpg" style="width:100px;height:100px"></a>
+  <a href="https://github.com/mtalhach/Data-Structure-Algorithms/tree/main/DATA%20STRUCTURE/Array%20in%20DSA"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/cplusplus-original.jpg"></a>
     </td>
       <td align='center' width="190">
- <a href="https://github.com/mtalhach/JAVA"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/java-original.jpg" style="width:100px;height:100px"></a>
+ <a href="https://github.com/mtalhach/JAVA"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/java-original.jpg"></a>
     </td>
       <td align='center' width="190">
-  <a href="https://github.com/mtalhach/Python"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/python-original.jpg" style="width:100px;height:100px"></a>
+  <a href="https://github.com/mtalhach/Python"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/python-original.jpg"></a>
     </td>
       <td align='center' width="190">
-   <a href="https://github.com/mtalhach"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/git-scm-icon.jpg" style="width:100px;height:100px"></a>
+   <a href="https://github.com/mtalhach"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/git-scm-icon.jpg"></a>
     </td>
   </tr>
 
    <tr>
     <td align='center' width="190">
-<a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/firebase-icon.jpg" style="width:100px;height:100px"></a>
+<a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/firebase-icon.jpg"></a>
     </td>
   </tr>
 </table>
