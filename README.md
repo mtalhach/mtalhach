@@ -41,20 +41,23 @@ Proven expertise in React.js, Next.js, Node.js, Express.js, MongoDB, RESTful API
 <h3 align="left">Languages and Tools:</h3>
 <table width="100">
   <tr>
-  <td align='center' width="190">
+  <td align='center' width="150">
     <a href="https://github.com/mtalhach/HTML-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/html5-original-wordmark.jpg"></a>
     </td>
-    <td align='center' width="190">
+    <td align='center' width="150">
    <a href="https://github.com/mtalhach/CSS-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/css3-original-wordmark.jpg"></a>
     </td>
-    <td align='center' width="190">
+    <td align='center' width="150">
   <a href="https://github.com/mtalhach/BootStrap"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/bootstrap-plain-wordmark.jpg"></a>
     </td>
-     <td align='center' width="190">
+     <td align='center' width="150">
   <a href="https://github.com/mtalhach/TailWind-CSS"><img src="https://github.com/mtalhach/mtalhach/blob/main/tailwinddd.png"></a>
     </td>
-      <td align='center' width="190">
+      <td align='center' width="150">
 <a href="https://github.com/mtalhach/sass"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/sass.png" ></a>
+    </td>
+    <td align='center' width="150">
+   <a  href="https://github.com/mtalhach/js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/javascript-original.jpg"></a>
     </td>
   </tr>
 
@@ -144,18 +147,18 @@ Proven expertise in React.js, Next.js, Node.js, Express.js, MongoDB, RESTful API
 
  <h2><i>⚙️ Tools & Technologies </i></h2>
  <p>
-❇ Programming Languages: ⚡JavaScript (ES6+), ⚡TypeScript <br>
-❇ Frameworks/Libraries: ⚡React, ⚡JQuery, ⚡Next.js, ⚡Next Auth.js, ⚡React Router, ⚡Material UI, ⚡Chakra UI, ⚡jQuery <br>
-❇ Back-end Technologies:⚡Node.js, ⚡Express.js, ⚡GraphQL, ⚡Stripe, ⚡Sanity CMS <br>
-❇ Mobile Development:⚡React Native, ⚡Expo <br>
-❇ State Management: ⚡Redux, ⚡Context API<br>
-❇ Testing: Unit Testing (⚡React Testing Library)<br>
-❇ API Integrations: ⚡JSON, ⚡REST API<br>
-❇ Databases:⚡MongoDB, ⚡Firebase<br>
-❇ Build Tools: ⚡Webpack<br>
-❇ Version Control: ⚡Github, ⚡Gitlab <br>
-❇ Operating Systems: ⚡Linux, ⚡Windows<br>
-❇ Markup and Styling: ⚡HTML, ⚡CSS, ⚡SCSS, ⚡Tailwind, ⚡Styled Components, ⚡Bootstrap<br>
+⚙️ Programming Languages: JavaScript (ES6+) || TypeScript<br>
+⚙️ Frameworks/Libraries: React || JQuery || Next.js || Next Auth.js || React Router || Material UI || jQuery<br>
+⚙️ Back-end Technologies: Node.js || Express.js || Nest js || Stripe || Sanity CMS<br>
+⚙️ Mobile Development: React Native || Expo<br>
+⚙️ State Management: Redux || Context API<br>
+⚙️ Testing: React Testing Library<br>
+⚙️ API Integrations: JSON || REST API || GraphQL<br>
+⚙️ Databases: MongoDB || My SQL || PostgreSQL || Supabase || Firebase<br>
+⚙️ Build Tools: Webpack<br>
+⚙️ Version Control: Github || Gitlab || Bitbucket<br>
+⚙️ Operating Systems: Linux || Windows || MacOS<br>
+⚙️ Markup and Styling: HTML || CSS || SCSS || Tailwind || Styled Components || Bootstrap || shadCN<br>
  </p>
  <br><br> <br>
 <div class="highlight highlight-source-java notranslate position-relative overflow-auto"><pre><span class="pl-k">if</span> (<span class="pl-s1">codeWorking</span>){
