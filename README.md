@@ -8,7 +8,7 @@
 </p>
 
 
-<h1 align="center">Hello <img src="https://github.com/mtalhach/mtalhach/blob/main/hello.gif" style="width:40px; display:inline-block;" data-target="animated-image.originalImage">, I'm Talha Shafiq</h1>
+<h1 align="center">Hello <img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/hello.gif" style="width:40px; display:inline-block;" data-target="animated-image.originalImage">, I'm Talha Shafiq</h1>
 
 <h3 align="center">A Full-Stack Software Engineer from Lahore, Pakistan</h3>
 
@@ -20,7 +20,7 @@
     <li>Agile project management and mentoring teams</li>
   </ul>
 
-<img align="right" alt="GIF" src="https://github.com/mtalhach/mtalhach/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage"><br>
+<img align="right" alt="GIF" src="https://github.com/talhashafiq008/talhashafiq008/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage"><br>
 
 <p>🔭 Currently</p>
   <ul>
@@ -42,7 +42,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mtalhach008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhamma00892831" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mtalhach/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-talha-ch" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/talhashafiq008/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-talha-ch" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mtalhach008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="talha.shafiq.3720" height="30" width="40" /></a>
 <a href="https://instagram.com/mtalhach008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch._.talha1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mtalhach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="talhashafiqch" height="30" width="40" /></a>
@@ -55,96 +55,96 @@
 <table width="100">
   <tr>
   <td align='center' width="120">
-    <a href="https://github.com/mtalhach/HTML-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/html5-original-wordmark.jpg"></a>
+    <a href="https://github.com/talhashafiq008/HTML-Web-Development-"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/html5-original-wordmark.jpg"></a>
     </td>
     <td align='center' width="120">
-   <a href="https://github.com/mtalhach/CSS-Web-Development-"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/css3-original-wordmark.jpg"></a>
+   <a href="https://github.com/talhashafiq008/CSS-Web-Development-"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/css3-original-wordmark.jpg"></a>
     </td>
     <td align='center' width="120">
-  <a href="https://github.com/mtalhach/BootStrap"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/bootstrap-plain-wordmark.jpg"></a>
+  <a href="https://github.com/talhashafiq008/BootStrap"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/bootstrap-plain-wordmark.jpg"></a>
     </td>
      <td align='center' width="120">
-  <a href="https://github.com/mtalhach/TailWind-CSS"><img src="https://github.com/mtalhach/mtalhach/blob/main/tailwinddd.png"></a>
+  <a href="https://github.com/talhashafiq008/TailWind-CSS"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/tailwinddd.png"></a>
     </td>
       <td align='center' width="120">
-<a href="https://github.com/mtalhach/sass"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/sass.png" ></a>
+<a href="https://github.com/talhashafiq008/sass"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/sass.png" ></a>
     </td>
     <td align='center' width="120">
-   <a  href="https://github.com/mtalhach/js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/javascript-original.jpg"></a>
+   <a  href="https://github.com/talhashafiq008/js"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/javascript-original.jpg"></a>
     </td>
      <td align='center' width="120">
-   <a href="https://github.com/mtalhach/jQuery"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/jQuery.png"></a>
+   <a href="https://github.com/talhashafiq008/jQuery"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/jQuery.png"></a>
     </td>
   </tr>
 
   <tr>
     <td align='center' width="120">
-   <a href="https://github.com/mtalhach/jQuery"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/jQuery.png"></a>
+   <a href="https://github.com/talhashafiq008/jQuery"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/jQuery.png"></a>
     </td>
     <td align='center' width="120">
- <a href="https://github.com/mtalhach/typeScript"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/typeScript.png"></a>
+ <a href="https://github.com/talhashafiq008/typeScript"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/typeScript.png"></a>
     </td>
      <td align='center' width="120">
-  <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/contentful.png"></a>
+  <a href="#"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/contentful.png"></a>
     </td>
       <td align='center' width="120">
-<a href="https://github.com/mtalhach/react-js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/react-1.png"></a>
+<a href="https://github.com/talhashafiq008/react-js"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/react-1.png"></a>
     </td>
      <td align='center' width="120">
-   <a  href="https://github.com/mtalhach/React_MUI"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/material-ui.png"></a>
+   <a  href="https://github.com/talhashafiq008/React_MUI"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/material-ui.png"></a>
     </td>
     <td align='center' width="120">
-   <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/chakra.png"></a>
+   <a href="#"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/chakra.png"></a>
     </td>
     <td align='center' width="120">
- <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/redux.png"></a>
+ <a href="#"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/redux.png"></a>
     </td>
   </tr>
 
 
    <tr>
     <td align='center' width="120">
-   <a  href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/threejs.png"></a>
+   <a  href="#"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/threejs.png"></a>
     </td>
     <td align='center' width="120">
-   <a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/auth-1.png"></a>
+   <a href="#"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/auth-1.png"></a>
     </td>
       <td align='center' width="120">
-   <a  href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/next-js.png"></a>
+   <a  href="#"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/next-js.png"></a>
     </td>
       <td align='center' width="120">
-   <a  href="https://github.com/mtalhach/node.js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/node.png"></a>
+   <a  href="https://github.com/talhashafiq008/node.js"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/node.png"></a>
     </td>
     <td align='center' width="120">
-   <a href="https://github.com/mtalhach/express.js"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/express-1.png"></a>
+   <a href="https://github.com/talhashafiq008/express.js"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/express-1.png"></a>
     </td>
     <td align='center' width="120">
- <a href="https://github.com/mtalhach/mongodb"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/mongobd.png"></a>
+ <a href="https://github.com/talhashafiq008/mongodb"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/mongobd.png"></a>
     </td>
      <td align='center' width="120">
-  <a href="https://github.com/mtalhach/SQL-SERVER"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/sql.png"></a>
+  <a href="https://github.com/talhashafiq008/SQL-SERVER"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/sql.png"></a>
     </td>
   </tr>
 
 
    <tr>
      <td align='center' width="120">
-<a href="https://github.com/mtalhach/c-programming"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/c-original.jpg"></a>
+<a href="https://github.com/talhashafiq008/c-programming"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/c-original.jpg"></a>
     </td>
       <td align='center' width="120">
-  <a href="https://github.com/mtalhach/Data-Structure-Algorithms/tree/main/DATA%20STRUCTURE/Array%20in%20DSA"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/cplusplus-original.jpg"></a>
+  <a href="https://github.com/talhashafiq008/Data-Structure-Algorithms/tree/main/DATA%20STRUCTURE/Array%20in%20DSA"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/cplusplus-original.jpg"></a>
     </td>
       <td align='center' width="120">
- <a href="https://github.com/mtalhach/JAVA"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/java-original.jpg"></a>
+ <a href="https://github.com/talhashafiq008/JAVA"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/java-original.jpg"></a>
     </td>
       <td align='center' width="120">
-  <a href="https://github.com/mtalhach/Python"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/python-original.jpg"></a>
+  <a href="https://github.com/talhashafiq008/Python"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/python-original.jpg"></a>
     </td>
       <td align='center' width="120">
-   <a href="https://github.com/mtalhach"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/git-scm-icon.jpg"></a>
+   <a href="https://github.com/talhashafiq008"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/git-scm-icon.jpg"></a>
     </td>
       <td align='center' width="120">
-<a href="#"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/firebase-icon.jpg"></a>
+<a href="#"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/firebase-icon.jpg"></a>
     </td>
   </tr>
 
@@ -193,18 +193,18 @@
 
 <p align="center">
 <!-- GitHub Stats Card -->
-<a href="https://github.com/mtalhach">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mtalhach&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Muhammad Talha Shafiq GitHub Stats"/>
+<a href="https://github.com/talhashafiq008">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talhashafiq008&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Muhammad Talha Shafiq GitHub Stats"/>
 </a>
 
 <!-- Top Languages Card -->
-<a href="https://github.com/mtalhach">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhach&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
+<a href="https://github.com/talhashafiq008">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhashafiq008&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
 </a>
 
 <!-- Streak Stats -->
-<a href="https://github.com/mtalhach">
-  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhach&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="GitHub Streak"/>
+<a href="https://github.com/talhashafiq008">
+  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=talhashafiq008&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="GitHub Streak"/>
 </a>
 
 </p>
@@ -212,4 +212,4 @@
 
 <h2 dir="auto">Activity Graph</h2>
 
-[![CH TALHA github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mtalhach&theme=github-compact)](https://github.com/mtalhach)
+[![CH TALHA github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=talhashafiq008&theme=github-compact)](https://github.com/talhashafiq008)
