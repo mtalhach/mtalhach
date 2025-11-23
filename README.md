@@ -14,14 +14,14 @@
 
 <img align="right" alt="GIF" src="https://github.com/mtalhach/mtalhach/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage"><br>
 
-<p style="font-size:18px;">🔭 Currently</p>
+<p>🔭 Currently</p>
   <ul>
     <li>Working on <strong>full-stack projects and freelance client solutions</strong></li>
     <li>Learning <strong>Data Structures & Algorithms</strong></li>
     <li>Exploring <strong>Machine Learning applications</strong></li>
   </ul>
 
-  <h2>📫 Connect with Me</h2>
+  <p>📫 Connect with Me</p>
   <ul>
     <li>🌍 Lahore, Pakistan</li>
     <li>✉️ <a href="mailto:talhashafiqch@gmail.com">talhashafiqch@gmail.com</a></li>
