@@ -12,9 +12,9 @@
     <li>Agile project management and mentoring teams</li>
   </ul>
 
-<img align="right" alt="GIF" src="https://github.com/mtalhach/mtalhach/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage"><br> <br>
+<img align="right" alt="GIF" src="https://github.com/mtalhach/mtalhach/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage"><br>
 
-<h2>🔭 Currently</h2>
+<p>🔭 Currently</p>
   <ul>
     <li>Working on <strong>full-stack projects and freelance client solutions</strong></li>
     <li>Learning <strong>Data Structures & Algorithms</strong></li>
