@@ -34,7 +34,7 @@
     <li>🌍 Lahore, Pakistan</li>
     <li>✉️ <a href="mailto:talhashafiqch@gmail.com">talhashafiqch@gmail.com</a></li>
     <li>📱 +92 307 1601809</li>
-  </ul>
+  </ul> <br>
 
   <p style="margin-top: 1em; font-style: italic; color: #555;">I aim to bridge technology and business goals by creating impactful products that deliver value. Whether freelance, client-based, or in-house development, my focus is on clarity, efficiency, and innovation.</p> <br> 
 
