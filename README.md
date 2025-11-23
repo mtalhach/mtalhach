@@ -192,15 +192,21 @@
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
+<!-- GitHub Stats Card -->
 <a href="https://github.com/mtalhach">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mtalhach&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mtalhach&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Muhammad Talha Shafiq GitHub Stats"/>
 </a>
-  <a href="https://github.com/mtalhach">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mtalhach&layout=compact&langs_count=8&theme=algolia"/>
+
+<!-- Top Languages Card -->
+<a href="https://github.com/mtalhach">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhach&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
 </a>
-  <a href="https://github.com/mtalhach">
-  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhach&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+
+<!-- Streak Stats -->
+<a href="https://github.com/mtalhach">
+  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhach&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="GitHub Streak"/>
 </a>
+
 </p>
 </p> <hr>
  
