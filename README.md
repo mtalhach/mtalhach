@@ -209,26 +209,6 @@
 
 </p>
 </p> <hr>
- 
-
-<h4>📊 Monthly Coding Time</h4>
-
-<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 600px; line-height: 1.6;">
-
-  <p><strong>DSA</strong> – 63 hrs 26 mins <span style="display:inline-block; background:#4caf50; width:10%; height:1em;"></span><span style="display:inline-block; background:#c8e6c9; width:90%; height:1em;"></span> 9.96%</p>
-
-  <p><strong>Web Development</strong> – 67 hrs 53 mins <span style="display:inline-block; background:#4caf50; width:84%; height:1em;"></span><span style="display:inline-block; background:#c8e6c9; width:16%; height:1em;"></span> 83.95%</p>
-
-  <p><strong>Python</strong> – 10 hrs 8 mins <span style="display:inline-block; background:#4caf50; width:1.3%; height:1em;"></span><span style="display:inline-block; background:#c8e6c9; width:98.7%; height:1em;"></span> 1.26%</p>
-
-  <p><strong>Java</strong> – 16 hrs 24 mins <span style="display:inline-block; background:#4caf50; width:2.8%; height:1em;"></span><span style="display:inline-block; background:#c8e6c9; width:97.2%; height:1em;"></span> 2.84%</p>
-
-  <p><strong>C++</strong> – 29 hrs 1 min <span style="display:inline-block; background:#4caf50; width:3.7%; height:1em;"></span><span style="display:inline-block; background:#c8e6c9; width:96.3%; height:1em;"></span> 3.68%</p>
-
-  <p><strong>Text/Documentation</strong> – 2 hrs 21 mins <span style="display:inline-block; background:#4caf50; width:1.2%; height:1em;"></span><span style="display:inline-block; background:#c8e6c9; width:98.8%; height:1em;"></span> 1.15%</p>
-
-</div>
-<br>
 
 <h2 dir="auto">Activity Graph</h2>
 
