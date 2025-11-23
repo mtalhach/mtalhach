@@ -1,4 +1,12 @@
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach?tab=repositories"><img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a></p>
+<p dir="auto">
+  <picture>
+    <!-- Dark Mode -->
+    <source srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+    <!-- Light Mode -->
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style="max-width: 100%;">
+  </picture>
+</p>
+
 
 <h1 align="center">Hello <img src="https://github.com/mtalhach/mtalhach/blob/main/hello.gif" style="width:40px; display:inline-block;" data-target="animated-image.originalImage">, I'm Talha Shafiq</h1>
 
