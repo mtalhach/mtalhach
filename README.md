@@ -204,7 +204,7 @@
 
 <!-- Streak Stats -->
 <a href="https://github.com/talhashafiq008">
-  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=talhashafiq008&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=talhashafiq008&theme=merko&hide_border=true" alt="GitHub Streak Stats"/>
 </a>
 
 </p>
