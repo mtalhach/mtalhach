@@ -14,7 +14,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/mtalhach/mtalhach/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage"><br>
 
-<p>🔭 Currently</p>
+<p style="font-size:18px;">🔭 Currently</p>
   <ul>
     <li>Working on <strong>full-stack projects and freelance client solutions</strong></li>
     <li>Learning <strong>Data Structures & Algorithms</strong></li>
