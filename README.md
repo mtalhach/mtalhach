@@ -1,29 +1,34 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach?tab=repositories"><img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a></p>
 
-<h1 align="center">Hello <img src="https://github.com/mtalhach/mtalhach/blob/main/hello.gif" style="width:40px; display:inline-block;" data-target="animated-image.originalImage">, I'm Talha Ch</h1>
+<h1 align="center">Hello <img src="https://github.com/mtalhach/mtalhach/blob/main/hello.gif" style="width:40px; display:inline-block;" data-target="animated-image.originalImage">, I'm Talha Shafiq</h1>
 
-<h3 align="center">A Passionate Full Stack MERN Developer from Pakistan</h3>
+<h3 align="center">A Full-Stack Software Engineer from Lahore, Pakistan</h3>
 
-<h4>Accomplished Full Stack Developer with 2+ years of experience in designing and developing high-performance, responsive web applications, and Mobile applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack and React native. Proficient in leveraging cutting-edge front-end and back-end technologies to optimize application performance and deliver seamless user experiences. 
-Proven expertise in React.js, Next.js, Node.js, Express.js, MongoDB, RESTful APIs, and GraphQL. Skilled in implementing reusable React components, server-side rendering with Next.js, and integrating with third-party services like Stripe and Sanity CMS. Recognized for strong collaboration abilities, and successfully leading cross-functional teams. Committed to continuous learning and staying ahead of industry trends.
-
-</h4>
+<h2>💼 What I Do</h2>
+  <ul>
+    <li>Full-Stack Web & Mobile Development: <strong>React, Next.js, Node.js, Express.js, NestJS, React Native</strong></li>
+    <li>REST & GraphQL APIs, server-side rendering, and third-party integrations: <strong>Stripe, Sanity CMS</strong></li>
+    <li>AI & Machine Learning integration for smart applications</li>
+    <li>Agile project management and mentoring teams</li>
+  </ul>
 
 <img align="right" alt="GIF" src="https://github.com/mtalhach/mtalhach/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage"><br> <br>
 
-- 🌍  I'm based in Lahore, Pakistan
-- 💻 Full Stack Developer 
-- 🔭 I’m currently working on MERN STACK DEVELOPMENT
-- 🌱 I’m currently learning Data Structure & Algorithms 
-- 👯 I’m looking to collaborate on Web Development & DSA
-- 🤔 I’m looking for help with Machine Learning
-- ⚡ Empowering eCommerce Businesses
-- 🌀 Agile & Scrum methodologies: Delivering results timely and effectively.
-- 🗣 Excellent communicator, ensuring seamless integration of tech & business objectives.
-- 👪 Mentoring juniors to achieve their full potential.
-- ⏱ An embodiment of punctuality, precision, and dedication.
-- ✉️  You can contact me at talhashafiqch@gmail.com
-- 📱 +923071601809 <br> <br>
+<h2>🔭 Currently</h2>
+  <ul>
+    <li>Working on <strong>full-stack projects and freelance client solutions</strong></li>
+    <li>Learning <strong>Data Structures & Algorithms</strong></li>
+    <li>Exploring <strong>Machine Learning applications</strong></li>
+  </ul>
+
+  <h2>📫 Connect with Me</h2>
+  <ul>
+    <li>🌍 Lahore, Pakistan</li>
+    <li>✉️ <a href="mailto:talhashafiqch@gmail.com">talhashafiqch@gmail.com</a></li>
+    <li>📱 +92 307 1601809</li>
+  </ul>
+
+  <p style="margin-top: 1em; font-style: italic; color: #555;">I aim to bridge technology and business goals by creating impactful products that deliver value. Whether freelance, client-based, or in-house development, my focus is on clarity, efficiency, and innovation.</p> <br> <br>
 
 
 <h3 align="left">Connect with me:</h3>
